@@ -17,8 +17,8 @@
 		<div class="hidden lg:block">
 			<ul class="inline-flex gap-20">
 				<li><a class="text-2xl font-bold hover:text-blue-500" href="/">Home</a></li>
-				<li><a class="text-2xl font-bold hover:text-blue-500" href="/about">About</a></li>
-				<li><a class="text-2xl font-bold hover:text-blue-500" href="/contact">Contact</a></li>
+				<li><a class="text-2xl font-bold hover:text-blue-500" href="/">About</a></li>
+				<li><a class="text-2xl font-bold hover:text-blue-500" href="/">Contact</a></li>
 			</ul>
 		</div>
 	</div>
